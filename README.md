@@ -9,3 +9,4 @@
 utilizando llaves, llenan 
 forma
 |4|programa3.py| 
+suma, resta, multiplicacion, division y potencia
