@@ -11,3 +11,4 @@ forma
 |4|programa3.py| 
 suma, resta, multiplicacion, division y potencia
 |5| calcular el area de un triangulo
+|6| # Probelma comparar 2 Números enteros e imprimir el número mayor 
